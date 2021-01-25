@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeAPI", "EmployeeAPI\EmployeeAPI.csproj", "{CC806253-8B32-4C75-BB28-67E13457F97F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A31AF4B-8A2D-4CFB-8FD7-F760D5EE5175}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC806253-8B32-4C75-BB28-67E13457F97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC806253-8B32-4C75-BB28-67E13457F97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC806253-8B32-4C75-BB28-67E13457F97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC806253-8B32-4C75-BB28-67E13457F97F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3253E67-6F32-4CA4-8FFE-CEE262C4E8A4}
+	EndGlobalSection
+EndGlobal
